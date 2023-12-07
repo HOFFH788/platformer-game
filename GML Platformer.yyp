@@ -3,9 +3,11 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":1,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"sInvisiblewall","path":"sprites/sInvisiblewall/sInvisiblewall.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
